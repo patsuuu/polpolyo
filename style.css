@@ -6,9 +6,6 @@
 .pats{
   margin-left: 150px;
 }
-.yow{
-  font-size: 9px;
-}
 body {
   background-color: #000;
   background-repeat: no-repeat;
@@ -141,12 +138,27 @@ background: transparent;}
 
 .wap{
   margin-top: 100px;
-  margin-left: 140px;
+  margin-left: 90px;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .card{
    
-  height: 279px;
-  width: 550px;
+  height: 179px;
+  width: 340px;
   position: relative;
   transition: all 1s linear;
   transform-style: preserve-3d;
@@ -202,17 +214,19 @@ background: transparent;}
 
 
 
-
+.yow{
+  font-size: 5.5px;
+}
 
 .cards{
  
-  height: 279px;
-  width: 270px;
+  height: 236px;
+  width: 230px;
   position: relative;
   transition: all 1s linear;
   transform-style: preserve-3d;
   border-radius: 10px;
-  margin:-1px 15px 15px -600px;
+  margin:-485px 15px 15px 600px;
   
 }
 
@@ -251,10 +265,6 @@ background: transparent;}
 .containers{
   perspective: 1000px;
 }
-
-
-
-
 
 
 
@@ -393,29 +403,24 @@ background: transparent;}
     font-size: 17px;
     color: #fff;
   }
-
-
+  
 
   .yow{
-    font-size: 6px;
+    font-size: 5px;
   }
     
   .card{
    
     height: 179px;
-    width: 350px;
+    width: 340px;
     position: relative;
     transition: all 1s linear;
     transform-style: preserve-3d;
     border-radius: 10px;
-    margin-left: -126px;
+    margin-left: -74px;
     
   }
-  .proj{
-    position: absolute;
-    margin:-700px 15px 15px 1200px;
-  
-  }
+
   
   .front,
   .back{
@@ -434,6 +439,7 @@ background: transparent;}
     z-index: 2;
     border-radius: 10px;
     backface-visibility: hidden;
+   
   }
   
   .back{
@@ -463,15 +469,17 @@ background: transparent;}
   
   .cards{
    
-    height: 262px;
-    width: 270px;
+    height: 236px;
+    width: 230px;
     position: relative;
     transition: all 1s linear;
     transform-style: preserve-3d;
     border-radius: 10px;
-    margin-left: -2290px;
-    margin-top: 700px;
-    
+    margin-top: -5px;
+    margin-left:-290px;
+  }
+  .luh{
+    margin-left: 220px;
   }
   
   
@@ -510,6 +518,5 @@ background: transparent;}
     perspective: 1000px;
   }
   
-  
-  
+    
 }
